@@ -1,6 +1,5 @@
 #pragma once
 
-#include <cstdio>
 template < class T >
 class UniquePtr {
  public:
